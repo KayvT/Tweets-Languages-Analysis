@@ -11,7 +11,7 @@
 
 #### Authors: 
 
-- Asem Okby
+- Asim Okby
 - Khaled Yassen
 - Nurhande Aykuz
 - Diala Jubeh
