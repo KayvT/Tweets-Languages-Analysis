@@ -1,6 +1,6 @@
 # Languages-Analysis-with-Tweets
 
-##### In this notebook, using tweets collected randomly from some contries(Egypt , France , and Turkey ), and Facebook's model fastText for language identification, we interpret and analyze the data in various ways
+### In this notebook, using tweets collected randomly from some contries(Egypt , France , and Turkey ), and Facebook's model fastText for language identification, we interpret and analyze the data in various ways
 
 ### How to use it
 
